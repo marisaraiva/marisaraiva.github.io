@@ -1,0 +1,46 @@
+<!DOCTYPE html><html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mari Saraiva</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; margin: 0; padding: 0; background: #fff; color: #222; }
+    header { background: #f8f8f8; padding: 40px 20px; text-align: center; }
+    header h1 { font-size: 3em; margin: 0; }
+    header p { font-size: 1.2em; color: #666; margin-top: 10px; }
+    nav { text-align: center; margin: 30px 0; }
+    nav a { margin: 0 15px; text-decoration: none; color: #333; font-weight: bold; }
+    section { padding: 40px 20px; max-width: 800px; margin: auto; }
+    h2 { border-bottom: 2px solid #eee; padding-bottom: 10px; margin-bottom: 20px; }
+    footer { text-align: center; padding: 30px 20px; font-size: 0.9em; color: #888; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mari Saraiva</h1>
+    <p>Atriz, Bailarina e Professora de Teatro Musical</p>
+    <p><em>"O palco é onde minha alma respira."</em></p>
+  </header>  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#portfolio">Portfólio</a>
+    <a href="#contato">Contato</a>
+  </nav>  <section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Atriz, bailarina e professora. Premiada 2 vezes como revelação em ensemble pelo portal "É Sobre Musical", possui formação em dança pela Escola do Teatro Municipal do RJ, é professora certificada pela Royal Ballet e especializada em psicomotricidade e ludicidade em dança infantil.</p>
+    <p>Trabalhou em mais de 20 grandes montagens musicais oficiais. Alguns são: <em>Elvis</em> (como Betty), <em>Cabaret</em> (como Lulu), <em>Uma Linda Mulher</em>, <em>A Pequena Sereia</em>, <em>Guarda-Costas</em>, <em>Donna Summer</em>, <em>Billy Elliot</em>, <em>Annie</em>, <em>Hebe</em>, <em>Hair</em>, <em>Zorro - O Musical</em>, <em>O Homem de La Mancha</em> (como Cigana), <em>Fame</em> e <em>Alô Dolly</em>.</p>
+    <p>Na TV participou de comerciais, shows, novelas, programas e seriados: <em>Pé na Cova</em> (como Suyanne), <em>Criança Esperança</em>, novelas <em>Caminho das Índias</em>, <em>Vidas em Jogo</em>, <em>América</em>, além de <em>The Voice Brasil</em>, <em>Masked Singer</em> e a série <em>O Coro</em>, como Regina Chaves para o Disney+.</p>
+    <p>Instagram: <a href="https://instagram.com/saraivamari" target="_blank">@saraivamari</a></p>
+  </section>  <section id="portfolio">
+    <h2>Portfólio</h2>
+    <p><strong>Musicais:</strong> Wicked, Elvis, Cabaret, Uma Linda Mulher, A Pequena Sereia, Donna Summer, Billy Elliot, Annie, Hebe, Hair, Zorro, O Homem de La Mancha, Fame, Alô Dolly e outros.</p>
+    <p><strong>TV:</strong> O Coro (Disney+), Pé na Cova, Caminho das Índias, América, Vidas em Jogo, The Voice Brasil, Masked Singer, Criança Esperança.</p>
+  </section>  <section id="contato">
+    <h2>Contato</h2>
+    <p>Email profissional: contato@exemplo.com</p>
+    <p>Instagram: <a href="https://instagram.com/saraivamari" target="_blank">@saraivamari</a></p>
+    <p>Wikipedia: <a href="https://pt.wikipedia.org/wiki/Mari_Saraiva" target="_blank">Mari Saraiva</a></p>
+  </section>  <footer>
+    &copy; 2025 Mari Saraiva. Todos os direitos reservados.
+  </footer>
+</body>
+</html>
